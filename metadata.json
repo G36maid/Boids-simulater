@@ -1,0 +1,5 @@
+{
+  "name": "Flocking RTS Demo",
+  "description": "A high-performance Boids flocking simulation with RTS-style controls and parameter tuning.",
+  "requestFramePermissions": []
+}
